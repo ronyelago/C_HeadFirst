@@ -1,6 +1,4 @@
 # ninja log v5
-1	89	7255742316089056	CMakeFiles/untitled.dir/main.c.obj	b22773c325c85072
-89	172	7255742316901928	untitled.exe	be8f472a4dd9f571
-2	202	7278308691825538	CMakeFiles/untitled.dir/Cards.c.obj	d1e9304fc7520e2f
 1	41	7278309289040865	CMakeFiles/untitled.dir/main.c.obj	b22773c325c85072
 41	115	7278309289742207	untitled.exe	97f977809cf6f83f
+2	202	7278308691825538	CMakeFiles/untitled.dir/Cards.c.obj	d1e9304fc7520e2f
